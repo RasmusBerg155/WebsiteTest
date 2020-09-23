@@ -1,0 +1,32 @@
+h1{
+    position: center;
+    alignment: center;
+    text-align: center;
+    text-decoration: antiquewhite;
+    background-color: cadetblue;
+    opacity: 75%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h2{
+    position: center;
+    alignment: center;
+    text-align: center;
+    text-decoration: antiquewhite;
+    background: aquamarine;
+    opacity: 65%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+body{
+    background: lightseagreen;
+}
+
+button{
+    border: aliceblue;
+    color: blue;
+    padding: 10px 10px;
+    text-align: center;
+}
